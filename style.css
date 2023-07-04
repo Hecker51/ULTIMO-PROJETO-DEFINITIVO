@@ -1,0 +1,45 @@
+body
+{
+background-image: url("cropped-1920-1080-1316969.png");
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+
+font-family: 'Quicksand', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+}
+
+.titulo
+{
+padding-top: 2px;
+    backdrop-filter: blur(10px);
+height: 100px;
+}
+
+.h3g
+{
+background-color: rgb(42, 29, 161);
+border-radius: 10px;
+
+}
+
+
+.classeburra
+{
+float:right;
+color: black;
+}
+.classeburra1
+{
+float: left;
+color: black;
+}
+
+
+canvas
+{
+
+
+    margin-top: 200px;
+    background-color: black;
+}
